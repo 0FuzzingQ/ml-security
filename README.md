@@ -11,3 +11,5 @@ https://github.com/guelfoweb/knock/
 https://raw.githubusercontent.com/jeffzh3ng/Fuxi-Scanner
 
 scribles：CIA tools 唯一水印技术追踪越权访问文件者
+
+soc:一个基于机器学习的日志安全分析模块，包括SVM,HMM,K-MEANS,CNN方法检测威胁日志
